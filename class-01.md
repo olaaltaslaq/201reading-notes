@@ -218,7 +218,6 @@ c 1 ass attribute with a value of note
 text input whose id attribute has a
 value of emai 1 
 
-
 2- MODIFY CONTENT:
 
 You can use JavaScript to add
