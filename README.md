@@ -1,4 +1,3 @@
-# 201reading-notes
 
 # OLA ALTASLAQ 
 
