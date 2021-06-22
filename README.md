@@ -11,7 +11,7 @@
 |----------- | ---------         |
 |read01      |[link](class-01.md)|
 |read02      |[link](class-02.md)|
-|read03      |[link](read203.md) |
+|read03      |[link](class-03.md)|
 |read04      |[link](read204.md) |
 |read06      |[link](read206.md) |
 |read07      |[link](read207.md) |
