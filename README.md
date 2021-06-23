@@ -7,21 +7,22 @@
 
 - ### 201 Reading Notes:
 
-| PAGE       |  LINK             | 
-|----------- | ---------         |
-|read01      |[link](class-01.md)|
-|read02      |[link](class-02.md)|
-|read03      |[link](class-03.md)|
-|read04      |[link](read204.md) |
-|read06      |[link](read206.md) |
-|read07      |[link](read207.md) |
-|read08      |[link](read208.md) |
-|read09      |[link](read209.md) |
-|read10      |[link](read210.md) |
-|read11      |[link](read211.md) | 
-|read12      |[link](read212.md) |
-|read13      |[link](read213.md) |
-|read14a     |[link](read214a.md)|
-|read14b     |[link](read214b.md)|
+| PAGE       |  LINK              | 
+|----------- | ---------          |
+|read01      |[link](class-01.md) |
+|read02      |[link](class-02.md) |
+|read03      |[link](class-03.md) |
+|read04      |[link](class-04.md) |
+|read05      |[link](class-05.md) |
+|read06      |[link](class-06.md) |
+|read07      |[link](class-07.md) |
+|read08      |[link](class-08.md) |
+|read09      |[link](class-09.md) |
+|read10      |[link](class-10.md) |
+|read11      |[link](class-11.md) | 
+|read12      |[link](class-12.md) |
+|read13      |[link](class-13.md) |
+|read14a     |[link](class-14a.md)|
+|read14b     |[link](class-14b.md)|
 
 *CLICK on the [link](https://github.com/olaaltaslaq) to find my GitHub*
